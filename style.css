@@ -66,6 +66,8 @@ table {
     background-image: linear-gradient(to right, rgb(220, 20, 60), rgb(86, 133, 236));
     color: rgb(255, 255, 255);
     border-radius: 5px;
+    position: relative;
+    bottom: 50px;
 }
 
 
@@ -77,6 +79,8 @@ header {
 
 .logo {
     margin: 10px;
+    
+
 }
 
 
