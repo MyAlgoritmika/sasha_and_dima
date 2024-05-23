@@ -1,0 +1,87 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: yellow;
+    background-color: green;
+    width: 1000px;
+    height: 100px;
+    text-align: center;
+    border-radius: 50%;
+    margin: 20px;
+    padding: 50px;
+}
+
+p {
+    width: 1200px;
+}
+
+img {
+    width: 200px;
+    height: 100px;
+    justify-content: space-between;
+}
+.ayo {
+    color: white;
+    text-align: center;
+    background-color: blue;
+    width: 180px;
+}
+
+.social img {
+    width: 100px;
+    height: 100px;
+}
+
+.kk {
+    width: 250px;
+    height: 300px;
+    position: absolute;
+    left: 1250px;
+    top: 300px;
+}
+
+.kp {
+    color: red;
+}
+
+
+td {
+    border: 1px solid black;
+    border-collapse:collapse ;
+}
+
+table {
+    border: 1px solid black;
+    margin: 20px;
+}
+
+
+
+.link-header {
+    text-decoration: none;
+    border: 1px solid red;
+    padding: 5px 20px 10px 20px;
+    background-image: linear-gradient(to right, rgb(220, 20, 60), rgb(86, 133, 236));
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+
+
+header {
+    background-color: rgb(255, 245, 238);
+    padding: 10px;
+}
+
+.logo {
+    margin: 10px;
+}
+
+
+footer {
+    background-color: rgb(255, 245, 238);
+    padding: 5px;
+    margin-top: 10px;
+}
